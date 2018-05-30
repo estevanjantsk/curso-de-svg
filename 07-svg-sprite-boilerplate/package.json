@@ -4,6 +4,7 @@
   "description": "É um boilerplate em Gulp para criar sprites em SVG.",
   "main": "index.js",
   "scripts": {
+    "gulp": "gulp sprites",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

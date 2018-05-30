@@ -1,8 +1,8 @@
 // declarar as nossas dependências
-var gulp = require('gulp');
-var svgSprite = require('gulp-svg-sprite');
+const gulp = require('gulp');
+const svgSprite = require('gulp-svg-sprite');
 
-var config = {
+const config = {
     mode: {
         symbol: {
             dest: 'sprite',
